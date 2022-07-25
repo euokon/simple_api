@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Aitey7INvssBfOeUp0ydJpxjTdYGXWGN4ks01hASXlei6B/9DJW3mIEHM1nJcWC/LRCRysjeGwS/Tgd1eq0Cw==",
+  "dgSpecHash": "qLz4whw9ovoAk7i86HuM7g/R4Ar0AKoDPCBP8U1fR3qmdaRvfrWvlx3gCBRHZfwbdjE0fsTsOWYKhaSKZ7AtNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eokon\\Documents\\DAO\\Projects\\Lopworks\\Lopworks\\Lopworks.csproj",
+  "projectFilePath": "D:\\DAO\\eeemma\\Git Repos\\simple_api\\Lopworks\\Lopworks\\Lopworks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eokon\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\eokon\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
