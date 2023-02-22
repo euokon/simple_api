@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ju2bHIxW5SR8S1j2RAxCeHzc44Kvye00Lj0bp9SOYpeMRZMqnBBpmCP7HU+O3x85x310mnWmD9lKlCw1uT9sjg==",
+  "dgSpecHash": "u4OwSYAGi1fFwOe2FFMhzFSI2Sx261GcN8kMlOryFQbReRoIDLpE1MlnjWYXcqbt8YoRKa2sZzTqeUejmdW1ow==",
   "success": true,
   "projectFilePath": "/Users/euokon/Documents/GitHub/simple_api/Lopworks/Lopworks/Lopworks.csproj",
   "expectedPackageFiles": [
@@ -112,7 +112,7 @@
     "/Users/euokon/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/euokon/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/euokon/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/euokon/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/euokon/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
     "/Users/euokon/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []

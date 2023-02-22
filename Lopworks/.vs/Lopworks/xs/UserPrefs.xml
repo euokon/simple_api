@@ -1,28 +1,24 @@
 ﻿<Properties StartupConfiguration="{0B0416E3-4F28-4190-BBBD-946E5D6EF559}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Lopworks PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lopworks/Controllers/LopworksController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lopworks/Properties/launchSettings.json">
     <Files>
-      <File FileName="Lopworks/Controllers/LopworksController.cs" Line="16" Column="10" />
+      <File FileName="Lopworks/Controllers/LopworksController.cs" Line="23" Column="9" />
+      <File FileName="Lopworks/Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lopworks" expanded="True">
-            <Node name="Lopworks" expanded="True">
-              <Node name="Controllers" expanded="True" />
-            </Node>
+            <Node name="Lopworks" expanded="True" />
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lopworks PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
